@@ -1,10 +1,6 @@
 <h1>Hi, I'm Kamiya 👾</h1>
 <h3>CTF Player | Security Developer | Pwn / Web / Misc</h3>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Kamiya721&label=Profile%20Views&color=creen&style=flat-square"/>
-</p>
-
 ---
 
 ## 🧩 About Me
