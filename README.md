@@ -2,7 +2,7 @@
 <h3>CTF Player | Security Developer | Pwn / Web / Misc</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Kamiya721&label=Profile%20Views&color=purple&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=Kamiya721&label=Profile%20Views&color=creen&style=flat-square"/>
 </p>
 
 ---
